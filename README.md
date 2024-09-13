@@ -1,15 +1,6 @@
 # Photofolio App
 [PhotoFolio](https://bhupendra-giradkar.github.io/PhotoFolio.github.io/) is an online photo album react app that allows users to upload, organize, and share their digital photos.
 
-##  Getting Started 
--  Fork the Project in your Repository.
--  Clone the Forked Repository in your Local System.
--  Run 'npm install'.
--  Run 'npm start'.
--  Enjoy :)
-
-For any issues related to the project, raise an ISSUE in the respective Repository.
-
 ## Functionalities
 - PhotoFolio App allow users to maintain images by category in various Albums.
 - It provides options for users to save, preview, and download images.
@@ -35,3 +26,12 @@ The PhotoFolio app is built using 6 components:
 The firebase API would look like this:
 - albums To store all the albums
 - images To store all the images associated with a particular album
+
+##  Getting Started 
+-  Fork the Project in your Repository.
+-  Clone the Forked Repository in your Local System.
+-  Run 'npm install'.
+-  Run 'npm start'.
+-  Enjoy :)
+
+For any issues related to the project, raise an ISSUE in the respective Repository.
